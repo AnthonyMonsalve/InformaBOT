@@ -19,6 +19,7 @@
         "cache-manager": "5.2.4",
         "dotenv": "^16.4.5",
         "mongodb": "^6.8.0",
+        "sharp": "^0.33.4",
         "wa-sticker-formatter": "4.4.4"
     },
     "devDependencies": {
